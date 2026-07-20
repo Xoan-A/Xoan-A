@@ -11,26 +11,12 @@ Además, tengo interés en áreas como inteligencia artificial y machine learnin
 ## Tecnologías
 - C#
 - .NET / ASP.NET Core
+- Node
 - JavaScript
 - Angular
 - React
 - SQL Server
+- MongoDB
 - Python
 - Java
 - Haskell
-
-
-<!--
-**Xoan-A/Xoan-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
