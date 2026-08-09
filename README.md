@@ -2,7 +2,7 @@
 
 Desarrollador de software junior con formación en Ingeniería en Sistemas y experiencia en proyectos académicos y personales orientados al desarrollo full stack.
 
-He trabajado en el desarrollo de aplicaciones web y APIs utilizando C#, .NET y JavaScript, integrando frontend y backend, diseñando lógica de negocio y utilizando bases de datos relacionales. Cuento con experiencia trabajando con frameworks como Angular y React, y con herramientas de control de versiones y desarrollo colaborativo.
+He trabajado en el desarrollo de aplicaciones web y APIs utilizando C#, Python y JavaScript, integrando frontend y backend, diseñando lógica de negocio y utilizando bases de datos relacionales. Cuento con experiencia trabajando con frameworks como .Net, Angular y React, y con herramientas de control de versiones y desarrollo colaborativo, utilizando metodologias agiles asi como herramientas externas como n8n.
 
 Actualmente tengo un enfoque en el desarrollo full stack, combinando APIs REST con aplicaciones web modernas. Me interesa seguir profundizando en buenas prácticas de desarrollo, arquitectura de software y trabajo en equipo en entornos profesionales.
 
