@@ -1,6 +1,6 @@
 # Hi 👋 I'm Xoán Atrio
 
-**Junior Software Developer | Full-Stack & Backend | Systems Engineering**
+**Software Developer | Full-Stack & Backend | Systems Engineering**
 
 I'm a Systems Engineering student and software developer interested in building applications, APIs, distributed systems, and data-driven solutions.
 
